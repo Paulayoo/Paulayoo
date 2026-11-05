@@ -1,5 +1,7 @@
 ## Hi there 👋I'm an Animal Science student at Obafemi Awolowo University, interested in technology and agriculture." "I've worked in AI data evaluation and model training, and I'm also a writer with experience in article writing and research." "I enjoy learning, exploring new ideas, and finding practical solutions.
 
+My Portforlio
+https://github.com/Paulayoo/AI-Evaluation-Portfolio-
 <!--
 **Paulayoo/Paulayoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
